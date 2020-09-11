@@ -6,7 +6,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-styled-jsx-postcss",
+    `gatsby-plugin-styled-jsx`,
     {
       resolve: "gatsby-plugin-styled-components",
     },

@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
+import { graphql } from "gatsby";
 import { Button } from "../shared/ui-kit";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
